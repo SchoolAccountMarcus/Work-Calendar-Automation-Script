@@ -1,0 +1,19 @@
+{
+  "timeZone": "America/New_York",
+  "dependencies": {
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "sheets": {
+    "macros": [{
+      "menuName": "main",
+      "functionName": "main"
+    }, {
+      "menuName": "shiftManager",
+      "functionName": "shiftManager"
+    }, {
+      "menuName": "payCalculator",
+      "functionName": "payCalculator"
+    }]
+  }
+}
